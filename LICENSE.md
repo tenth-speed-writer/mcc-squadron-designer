@@ -1,0 +1,1 @@
+Until such time as a formal decision can be made on license selection, rights to the use and further development of this codebase are granted to the creator(s) and community contributors of Mechanical Core Combat

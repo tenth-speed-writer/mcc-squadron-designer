@@ -1,0 +1,1773 @@
+size = 18
+line_gap = 0
+space_w = 8
+
+[[glyphs]]
+chr = "\u0000"
+x = 16
+y = 52
+w = 7
+h = 11
+off_x = 0
+off_y = -10
+adv = 8
+
+[[glyphs]]
+chr = '!'
+x = 100
+y = 30
+w = 1
+h = 9
+off_x = 3
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '"'
+x = 88
+y = 95
+w = 3
+h = 3
+off_x = 2
+off_y = -10
+adv = 8
+
+[[glyphs]]
+chr = '#'
+x = 86
+y = 112
+w = 7
+h = 8
+off_x = 0
+off_y = -8
+adv = 8
+
+[[glyphs]]
+chr = '$'
+x = 40
+y = 81
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '%'
+x = 40
+y = 91
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '&'
+x = 40
+y = 101
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = "'"
+x = 94
+y = 59
+w = 1
+h = 3
+off_x = 3
+off_y = -10
+adv = 8
+
+[[glyphs]]
+chr = '('
+x = 48
+y = 0
+w = 5
+h = 13
+off_x = 1
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = ')'
+x = 40
+y = 11
+w = 5
+h = 13
+off_x = 1
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = '*'
+x = 24
+y = 120
+w = 7
+h = 7
+off_x = 0
+off_y = -8
+adv = 8
+
+[[glyphs]]
+chr = '+'
+x = 56
+y = 120
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = ','
+x = 21
+y = 124
+w = 2
+h = 3
+off_x = 2
+off_y = -1
+adv = 8
+
+[[glyphs]]
+chr = '-'
+x = 103
+y = 15
+w = 5
+h = 1
+off_x = 1
+off_y = -4
+adv = 8
+
+[[glyphs]]
+chr = '.'
+x = 46
+y = 11
+w = 1
+h = 1
+off_x = 3
+off_y = -1
+adv = 8
+
+[[glyphs]]
+chr = '/'
+x = 86
+y = 9
+w = 5
+h = 10
+off_x = 1
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '0'
+x = 40
+y = 111
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '1'
+x = 46
+y = 14
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '2'
+x = 46
+y = 24
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '3'
+x = 46
+y = 34
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '4'
+x = 46
+y = 44
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '5'
+x = 46
+y = 54
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '6'
+x = 46
+y = 64
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '7'
+x = 48
+y = 74
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '8'
+x = 48
+y = 84
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '9'
+x = 48
+y = 94
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = ':'
+x = 102
+y = 24
+w = 1
+h = 7
+off_x = 3
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = ';'
+x = 100
+y = 8
+w = 2
+h = 9
+off_x = 2
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = '<'
+x = 40
+y = 121
+w = 7
+h = 5
+off_x = 0
+off_y = -6
+adv = 8
+
+[[glyphs]]
+chr = '='
+x = 48
+y = 124
+w = 7
+h = 3
+off_x = 0
+off_y = -5
+adv = 8
+
+[[glyphs]]
+chr = '>'
+x = 86
+y = 121
+w = 7
+h = 5
+off_x = 0
+off_y = -6
+adv = 8
+
+[[glyphs]]
+chr = '?'
+x = 48
+y = 104
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '@'
+x = 86
+y = 0
+w = 7
+h = 8
+off_x = 0
+off_y = -8
+adv = 8
+
+[[glyphs]]
+chr = 'A'
+x = 48
+y = 114
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'B'
+x = 54
+y = 0
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'C'
+x = 54
+y = 10
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'D'
+x = 54
+y = 20
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'E'
+x = 54
+y = 30
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'F'
+x = 54
+y = 40
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'G'
+x = 54
+y = 50
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'H'
+x = 54
+y = 60
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'I'
+x = 56
+y = 70
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'J'
+x = 56
+y = 80
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'K'
+x = 56
+y = 90
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'L'
+x = 56
+y = 100
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'M'
+x = 56
+y = 110
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'N'
+x = 62
+y = 0
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'O'
+x = 62
+y = 10
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'P'
+x = 62
+y = 20
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'Q'
+x = 62
+y = 30
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'R'
+x = 62
+y = 40
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'S'
+x = 62
+y = 50
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'T'
+x = 62
+y = 60
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'U'
+x = 64
+y = 70
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'V'
+x = 64
+y = 80
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'W'
+x = 64
+y = 90
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'X'
+x = 64
+y = 100
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'Y'
+x = 64
+y = 110
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'Z'
+x = 70
+y = 0
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '['
+x = 40
+y = 25
+w = 5
+h = 13
+off_x = 1
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = '\'
+x = 86
+y = 20
+w = 5
+h = 10
+off_x = 1
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = ']'
+x = 40
+y = 39
+w = 5
+h = 13
+off_x = 1
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = '^'
+x = 94
+y = 49
+w = 7
+h = 4
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '_'
+x = 0
+y = 126
+w = 7
+h = 1
+off_x = 0
+off_y = -1
+adv = 8
+
+[[glyphs]]
+chr = '`'
+x = 102
+y = 32
+w = 3
+h = 3
+off_x = 2
+off_y = -10
+adv = 8
+
+[[glyphs]]
+chr = 'a'
+x = 64
+y = 120
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'b'
+x = 70
+y = 10
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'c'
+x = 72
+y = 120
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'd'
+x = 70
+y = 20
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'e'
+x = 86
+y = 31
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'f'
+x = 70
+y = 30
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'g'
+x = 32
+y = 48
+w = 7
+h = 10
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'h'
+x = 70
+y = 40
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'i'
+x = 94
+y = 111
+w = 5
+h = 9
+off_x = 1
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'j'
+x = 8
+y = 98
+w = 7
+h = 12
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'k'
+x = 70
+y = 50
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'l'
+x = 70
+y = 60
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'm'
+x = 92
+y = 9
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'n'
+x = 94
+y = 0
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'o'
+x = 92
+y = 17
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'p'
+x = 32
+y = 59
+w = 7
+h = 10
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'q'
+x = 32
+y = 70
+w = 7
+h = 10
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'r'
+x = 86
+y = 39
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 's'
+x = 86
+y = 47
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 't'
+x = 72
+y = 70
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'u'
+x = 86
+y = 55
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'v'
+x = 88
+y = 63
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'w'
+x = 88
+y = 71
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'x'
+x = 88
+y = 79
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'y'
+x = 32
+y = 81
+w = 7
+h = 10
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'z'
+x = 88
+y = 87
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = '{'
+x = 40
+y = 53
+w = 5
+h = 13
+off_x = 1
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = '|'
+x = 100
+y = 18
+w = 1
+h = 11
+off_x = 3
+off_y = -10
+adv = 8
+
+[[glyphs]]
+chr = '}'
+x = 40
+y = 67
+w = 5
+h = 13
+off_x = 1
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = '~'
+x = 8
+y = 124
+w = 7
+h = 3
+off_x = 0
+off_y = -6
+adv = 8
+
+[[glyphs]]
+chr = '¡'
+x = 96
+y = 59
+w = 1
+h = 9
+off_x = 3
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = '¢'
+x = 94
+y = 35
+w = 5
+h = 7
+off_x = 1
+off_y = -8
+adv = 8
+
+[[glyphs]]
+chr = '£'
+x = 72
+y = 80
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '¥'
+x = 72
+y = 90
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '©'
+x = 72
+y = 100
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '«'
+x = 94
+y = 121
+w = 6
+h = 5
+off_x = 0
+off_y = -6
+adv = 8
+
+[[glyphs]]
+chr = '®'
+x = 72
+y = 110
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '°'
+x = 102
+y = 0
+w = 4
+h = 4
+off_x = 1
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '»'
+x = 94
+y = 43
+w = 6
+h = 5
+off_x = 1
+off_y = -6
+adv = 8
+
+[[glyphs]]
+chr = '¿'
+x = 78
+y = 0
+w = 7
+h = 9
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'À'
+x = 0
+y = 0
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Á'
+x = 0
+y = 14
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Â'
+x = 0
+y = 28
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Ã'
+x = 8
+y = 111
+w = 7
+h = 12
+off_x = 0
+off_y = -12
+adv = 8
+
+[[glyphs]]
+chr = 'Ä'
+x = 16
+y = 64
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'Å'
+x = 0
+y = 42
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Æ'
+x = 78
+y = 10
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'Ç'
+x = 16
+y = 0
+w = 7
+h = 12
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'È'
+x = 0
+y = 56
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'É'
+x = 0
+y = 70
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Ê'
+x = 0
+y = 84
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Ë'
+x = 16
+y = 76
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'Ì'
+x = 0
+y = 98
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Í'
+x = 0
+y = 112
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Î'
+x = 8
+y = 0
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Ï'
+x = 16
+y = 88
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'Ñ'
+x = 16
+y = 13
+w = 7
+h = 12
+off_x = 0
+off_y = -12
+adv = 8
+
+[[glyphs]]
+chr = 'Ò'
+x = 8
+y = 14
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Ó'
+x = 8
+y = 28
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Ô'
+x = 8
+y = 42
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Õ'
+x = 16
+y = 26
+w = 7
+h = 12
+off_x = 0
+off_y = -12
+adv = 8
+
+[[glyphs]]
+chr = 'Ö'
+x = 16
+y = 100
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'Ù'
+x = 8
+y = 56
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Ú'
+x = 8
+y = 70
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Û'
+x = 8
+y = 84
+w = 7
+h = 13
+off_x = 0
+off_y = -13
+adv = 8
+
+[[glyphs]]
+chr = 'Ü'
+x = 16
+y = 112
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'ß'
+x = 78
+y = 20
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'à'
+x = 24
+y = 0
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'á'
+x = 24
+y = 12
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'â'
+x = 24
+y = 24
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'ã'
+x = 32
+y = 92
+w = 7
+h = 10
+off_x = 0
+off_y = -10
+adv = 8
+
+[[glyphs]]
+chr = 'ä'
+x = 78
+y = 30
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'å'
+x = 24
+y = 36
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'æ'
+x = 92
+y = 95
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'ç'
+x = 32
+y = 103
+w = 7
+h = 10
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'è'
+x = 24
+y = 48
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'é'
+x = 24
+y = 60
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'ê'
+x = 24
+y = 72
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'ë'
+x = 78
+y = 40
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'ì'
+x = 80
+y = 100
+w = 5
+h = 11
+off_x = 1
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'í'
+x = 80
+y = 112
+w = 5
+h = 11
+off_x = 1
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'î'
+x = 86
+y = 100
+w = 5
+h = 11
+off_x = 1
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'ï'
+x = 94
+y = 25
+w = 5
+h = 9
+off_x = 1
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'ñ'
+x = 32
+y = 114
+w = 7
+h = 10
+off_x = 0
+off_y = -10
+adv = 8
+
+[[glyphs]]
+chr = 'ò'
+x = 24
+y = 84
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'ó'
+x = 24
+y = 96
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'ô'
+x = 24
+y = 108
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'õ'
+x = 40
+y = 0
+w = 7
+h = 10
+off_x = 0
+off_y = -10
+adv = 8
+
+[[glyphs]]
+chr = 'ö'
+x = 78
+y = 50
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'ù'
+x = 32
+y = 0
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'ú'
+x = 32
+y = 12
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'û'
+x = 32
+y = 24
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'ü'
+x = 78
+y = 60
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'ÿ'
+x = 16
+y = 39
+w = 7
+h = 12
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'Œ'
+x = 80
+y = 70
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = 'œ'
+x = 92
+y = 103
+w = 7
+h = 7
+off_x = 0
+off_y = -7
+adv = 8
+
+[[glyphs]]
+chr = 'Ÿ'
+x = 32
+y = 36
+w = 7
+h = 11
+off_x = 0
+off_y = -11
+adv = 8
+
+[[glyphs]]
+chr = 'ẞ'
+x = 80
+y = 80
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '–'
+x = 32
+y = 125
+w = 7
+h = 1
+off_x = 0
+off_y = -4
+adv = 8
+
+[[glyphs]]
+chr = '—'
+x = 103
+y = 11
+w = 7
+h = 1
+off_x = 0
+off_y = -4
+adv = 8
+
+[[glyphs]]
+chr = '‘'
+x = 102
+y = 36
+w = 2
+h = 3
+off_x = 2
+off_y = -10
+adv = 8
+
+[[glyphs]]
+chr = '’'
+x = 105
+y = 36
+w = 2
+h = 3
+off_x = 2
+off_y = -10
+adv = 8
+
+[[glyphs]]
+chr = '‚'
+x = 104
+y = 24
+w = 2
+h = 3
+off_x = 2
+off_y = -1
+adv = 8
+
+[[glyphs]]
+chr = '“'
+x = 80
+y = 124
+w = 4
+h = 3
+off_x = 1
+off_y = -10
+adv = 8
+
+[[glyphs]]
+chr = '”'
+x = 16
+y = 124
+w = 4
+h = 3
+off_x = 1
+off_y = -10
+adv = 8
+
+[[glyphs]]
+chr = '„'
+x = 101
+y = 45
+w = 4
+h = 3
+off_x = 1
+off_y = -1
+adv = 8
+
+[[glyphs]]
+chr = '•'
+x = 101
+y = 40
+w = 4
+h = 4
+off_x = 1
+off_y = -6
+adv = 8
+
+[[glyphs]]
+chr = '…'
+x = 103
+y = 13
+w = 7
+h = 1
+off_x = 0
+off_y = -1
+adv = 8
+
+[[glyphs]]
+chr = '‹'
+x = 102
+y = 18
+w = 3
+h = 5
+off_x = 2
+off_y = -6
+adv = 8
+
+[[glyphs]]
+chr = '›'
+x = 103
+y = 5
+w = 3
+h = 5
+off_x = 2
+off_y = -6
+adv = 8
+
+[[glyphs]]
+chr = '€'
+x = 80
+y = 90
+w = 7
+h = 9
+off_x = 0
+off_y = -9
+adv = 8
+
+[[glyphs]]
+chr = '™'
+x = 94
+y = 54
+w = 7
+h = 4
+off_x = 0
+off_y = -9
+adv = 8
