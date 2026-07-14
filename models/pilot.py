@@ -1,5 +1,5 @@
 import typing
-from typing import Optional
+from typing import Optional, List
 from .base import Base
 from sqlalchemy import String, ForeignKey
 from sqlalchemy.orm import Mapped, mapped_column, relationship
@@ -38,4 +38,9 @@ class Pilot(Base):
     rank: Mapped['PilotRank'] = relationship(
         "PilotRank",
         back_populates = 'pilots_of_rank'
+    )
+    
+    # Team roles to which this pilot is assigned. Navigation property.
+    assignments: Mapped[List['TeamAssignment']] = relationship(
+        back_populates = 'pilot'
     )

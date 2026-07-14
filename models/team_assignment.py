@@ -16,12 +16,28 @@ class TeamAssignment(Base):
     # The name of this table in the database
     __tablename__ = 'team_assignments'
 
-    # The local primary key of the team_assignments table
-    id: Mapped[int] = mapped_column(primary_key = True)
+    # The local half of the primary key of the team_assignments table.
+    # Shares primary key-ship with the ID of the team for this row's team.
+    id: Mapped[int] = mapped_column(
+        primary_key = True
+    )
+
+    # The ID of the team to which this assignment belongs.
+    team_id: Mapped[int] = mapped_column(
+        ForeignKey('teams.id')
+    )
+
+    # The ID of the mech assigned to the specified team in this instance.
+    mech_id: Mapped[int] = mapped_column(ForeignKey('mechs.id'))
+
+    # The ID of the pilot assigned to this mech as it appears on this team.
+    pilot_id: Mapped[int] = mapped_column(ForeignKey('pilots.id'))
 
     # The sort order of this specific assignment in its parent team.
     # This represents the order in which the user placed this assigned
     # mech beside its peers when editing their squadron.
+    #
+    # NOTE: This MIGHT be folded into the local index? Revisit.
     position: Mapped[int] = mapped_column(Integer)
 
     # An optional bio for the mech in this team assignment. Can be specified
@@ -29,19 +45,23 @@ class TeamAssignment(Base):
     # displayed instead of the mech template's bio. Maximum of 1000 characters.
     custom_mech_bio: Mapped[Optional[str]] = mapped_column(String(1000))
 
+    # The team to which this mech and pilt are assigned. Navigation property.
+    team: Mapped['Team'] = relationship(
+        back_populates = 'assignments'
+    )
+
+    # The template associated with the mech represented by this assignment.
+    # Navigation property.
+    mech: Mapped['Mech'] = relationship(back_populates = 'team_assignments')
+
+    # The pilot of this mech on this team. Navigation property.
+    pilot: Mapped['Pilot'] = relationship(back_populates = 'assignments')
+
     # Modifiers potentially held by the mech represented by this assignment,
     # and whether they're currently enabled as it appears in this team.
     # Navigation property.
     modifiers: Mapped[List['MechModifierTeamAssignment']] = relationship(
         back_populates = 'team_assignment'
-    )
-    
-    # The ID of the team to which this assignment belongs.
-    team_id: Mapped[int] = mapped_column(ForeignKey('teams.id'))
-
-    # The team to which this assignment belongs. Navigation property.
-    team: Mapped['Team'] = relationship(
-        back_populates = 'assignments'
     )
 
     # Specify that there can only be one unique position for a given team.

@@ -56,6 +56,10 @@ class Mech(Base):
         back_populates = 'mech'
     )
 
+    team_assignments: Mapped[List['TeamAssignment']] = relationship(
+        back_populates = 'mech'
+    )
+
     # A list of instances in which this mech template has been
     # referenced by team-level instances of mech modifiers.
     #   (Don't worry about it; it's a navigation property.
