@@ -13,7 +13,7 @@ class PilotRank(Base):
     # The name of the database table associated with this class
     __tablename__ = 'pilot_ranks'
     
-    # The name of this skill level (and its primary key). Max 20 chars.
+    # The name of this skill level. Max 20 chars.
     name: Mapped[str] = mapped_column(String(20), primary_key = True)
 
     # The human-readable effect this skill level has on gameplay (<= 500 chars)

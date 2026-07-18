@@ -31,8 +31,8 @@ class Pilot(Base):
     )
 
     # The pilot's rank. Max 20 characters. Foreign key to the PilotLevel table.
-    # One of 'Liability', 'Standard,' 'Experienced', 'Skilled', or 'Ace'. 
-    rank_name: Mapped[str] = mapped_column(ForeignKey('pilot_ranks.name'))
+    # One of Liability(0), Standard(1), Experienced(2), Skilled(3), or Ace(4).
+    rank_id: Mapped[str] = mapped_column(ForeignKey('pilot_ranks.name'))
 
     # Navigation property for information associated with this pilot's rank.
     rank: Mapped['PilotRank'] = relationship(
